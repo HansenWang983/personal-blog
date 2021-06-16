@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Distributed System
+    tag: Distributed System
   - name: Other
     tag: Demo
 
